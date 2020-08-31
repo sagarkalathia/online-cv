@@ -129,7 +129,7 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Self-Driving RC Car | CAN, Sensors, FreeRTOS, Unit Testing, C, ARM Cortex M3.
+      - title: Self-Driving RC Car using CAN, Sensors, FreeRTOS, Unit Testing, C, ARM Cortex M3
         link: "#hook"
         tagline: "- Engineered Autonomous RC toy car in team by implementing 5 ECUs communicating over CAN bus by creating DBC file"
                  "- Lead Master ECU & developed Sensor ECU collaborating with Motor and GPS ECU. Performed debugging using BusMaster"
