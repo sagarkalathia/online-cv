@@ -97,11 +97,11 @@ projects:
 
       - title: Self-Driving RC Car ( CAN, Sensors, FreeRTOS, Unit Testing,  ARM Cortex M3)
         link: "#"
-        tagline: "
-        
-                    Engineered Autonomous RC toy car in team by implementing 5 ECUs communicating over CAN bus by creating DBC file.
-                  • Lead Master ECU & developed Sensor ECU collaborating with Motor and GPS ECU. Performed debugging using BusMaster.
-                  • carried out test driven development using Unity & CMock test frameworks to perform Unit Testing and System Validation."
+        tagline:  Engineered Autonomous RC toy car in team by implementing 5 ECUs communicating over CAN bus by creating DBC file.
+                  
+                  Lead Master ECU & developed Sensor ECU collaborating with Motor and GPS ECU. Performed debugging using BusMaster.
+                  
+                  carried out test driven development using Unity & CMock test frameworks to perform Unit Testing and System Validation.
 
       - title: Tempo
         link: "#"
