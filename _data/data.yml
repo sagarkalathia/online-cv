@@ -50,38 +50,18 @@ career-profile:
     summary: |
       I develop software for Hardware devices. I can make some cool (and not-so-cool) gadgets.
       I am Embedded Systems Enthusiast, Experienced in Sensors, Firmware development, Peripherals & developing Software for microcontrollers and processor.
-      You can [download this free resume/CV template here]().
       Apart from that, I am passionate about Autonomous Vehicles/Robots and Deep Learning. 
       You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      
-      Second paragraph if required.
-      
+            
 education:
     - degree: MS in Computer Engineering, GPA 3.4
       university: San Jose State University
       time: 2017 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
     - degree: B.Eng in Electronics & Communication Engg, GPA 3.6
       university: Gujarat Technological University, India
       time: 2012 - 2016
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
     - role: Embedded Software Engineer
       time: Feb '20 - Jun '20
@@ -90,17 +70,7 @@ experiences:
         Worked on System Validation of Retail robot.
           - Collaborated cross-functionally (HW, Sensor team) to carry out system validation plan, Programmed regression tests solely.
           - Developed code to perform Power system characterization of robot and utility app to provide messages on CAN at high level.
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+
     - role: Systems Engineering Intern
       time: May '19 - Aug '19
       company: NXP Semiconductors, Austin, TX
@@ -108,39 +78,28 @@ experiences:
         Worked on ARM based IMX 8M Series Application processors.
            - Reduced CPU utilization by 50% by enabling hardware decoder pipeline on Software side on Embedded Linux platform.
            - Enhanced Android USB Hardware Abstraction Layer (HAL) to enable hardware Video decode (MJPG & H264 decode).
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
     - role: Application Development Associate
       time: 2016 - 2017
       company: Accenture Solutions, India
       details: |
-        Worked on Oracle Fusion-Middleware domain with Oracle ETL tool (ODI) and Oracle DB in Agile methodology using JIRA.
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Worked on Oracle Fusion-Middleware domain with Oracle ETL tool (ODI) and Oracle DB in Agile methodology using JIRA.
+
 projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      section. 
     assignments:
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: Self-Driving RC Car ( CAN, Sensors, FreeRTOS, Unit Testing,  ARM Cortex M3)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "• Engineered Autonomous RC toy car in team by implementing 5 ECUs communicating over CAN bus by creating DBC file.
+                  • Lead Master ECU & developed Sensor ECU collaborating with Motor and GPS ECU. Performed debugging using BusMaster.
+                  • carried out test driven development using Unity & CMock test frameworks to perform Unit Testing and System Validation."
 
       - title: Tempo
         link: "#"
