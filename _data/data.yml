@@ -93,7 +93,9 @@ projects:
     assignments:
       - title: Velocity
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: | 
+         - A responsive website template designed to help startups promote, market and sell their products.
+         - This is second line.
 
       - title: Self-Driving RC Car ( CAN, Sensors, FreeRTOS, Unit Testing,  ARM Cortex M3)
         link: "#"
