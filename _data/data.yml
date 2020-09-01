@@ -115,11 +115,13 @@ projects:
 
       - title: Atom
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: >
+            "A comprehensive website template solution for startups/developers to market their mobile apps."
 
       - title: Delta
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: | 
+            A responsive Bootstrap one page theme designed to help app developers promote their mobile apps
 
 publications:
     title: Publications
