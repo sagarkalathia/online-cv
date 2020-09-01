@@ -48,12 +48,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
+      I develop software for Hardware devices. I can make some cool (and not-so-cool) gadgets.
+      I am Embedded Systems Enthusiast, Experienced in Sensors, Firmware development, Peripherals & developing Software for microcontrollers and processor.
+      You can [download this free resume/CV template here]().
+      Apart from that, I am passionate about Autonomous Vehicles/Robots and Deep Learning. 
+      You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
+      
       Second paragraph if required.
+      
 education:
     - degree: MSc in Computer Science
       university: University of London
