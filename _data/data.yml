@@ -7,20 +7,20 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Sagar Kalathia
-    tagline: Embedded Software / Firmware Engineer
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: skalathia29@gmail.com
-    phone: (669) 231-9284
-    website: sagarkalathia.github.io/ #do not add http://
-    linkedin: sagar-kalathia
-    github: sagarkalathia
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    github: sharu725
     telegram: # add your nickname without '@' sign
-    gitlab: sagarkalathia
+    gitlab:
     bitbucket:
-    twitter: 
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,35 +29,35 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: Hindi
+      - idiom: French
         level: Professional
 
-      - idiom: Gujarati
+      - idiom: Spanish
         level: Professional
 
     interests:
-      - item: Hiking
+      - item: Climbing
         link:
 
-      - item: Reading
+      - item: Snowboarding
         link:
 
-      - item: Personal Development
+      - item: Cooking
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I develop software for Hardware devices. I can make some cool (and not-so-cool) gadgets.
-      I am Embedded Systems Enthusiast, Experienced in Sensors, Firmware development, Peripherals & developing Software for microcontrollers and processor.
-      You can [download this free resume/CV template here]().
-      
-      Apart from that, I am passionate about Autonomous Vehicles/Robots and Deep Learning.
-      
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: MS in Computer Engineering, GPA 3.4
-      university: San Jose State University
-      time: 2017 - 2019
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +66,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: B.Eng in Electronics & Communication Engg, GPA 3.6
-      university: Gujarat Technological University, India
-      time: 2012 - 2016
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,13 +78,10 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Embedded Software Engineer
-      time: Feb '20 - Jun '20
-      company: Bossa Nova Robotics, Mountain View, CA
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
-        Worked on System Validation of Retail robot.
-          - Collaborated cross-functionally (HW, Sensor team) to carry out system validation plan, Programmed regression tests solely.
-          - Developed code to perform Power system characterization of robot and utility app to provide messages on CAN at high level.
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -96,13 +93,10 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Systems Engineering Intern
-      time: May '19 - Aug '19
-      company: NXP Semiconductors, Austin, TX
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
-        Worked on ARM based IMX 8M Series Application processors.
-           - Reduced CPU utilization by 50% by enabling hardware decoder pipeline on Software side on Embedded Linux platform.
-           - Enhanced Android USB Hardware Abstraction Layer (HAL) to enable hardware Video decode (MJPG & H264 decode).
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -110,11 +104,10 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: Application Development Associate
-      time: 2016 - 2017
-      company: Accenture Solutions, India
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
       details: |
-        Worked on Oracle Fusion-Middleware domain with Oracle ETL tool (ODI) and Oracle DB in Agile methodology using JIRA.
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -129,11 +122,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Self-Driving RC Car using CAN, Sensors, FreeRTOS, Unit Testing, C, ARM Cortex M3
+      - title: Velocity
         link: "#hook"
-        tagline: "- Engineered Autonomous RC toy car in team by implementing 5 ECUs communicating over CAN bus by creating DBC file"
-                 "- Lead Master ECU & developed Sensor ECU collaborating with Motor and GPS ECU. Performed debugging using BusMaster"
-                 "- carried out test driven development using Unity & CMock test frameworks to perform Unit Testing and System Validation"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
         link: "#"
