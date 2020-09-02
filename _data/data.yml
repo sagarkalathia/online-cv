@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: skalathia29@gmail.com
     phone: (669) 231-9284
-    website: sagarkalathia.github.io/ #do not add http://
+    website: sagarkalathia.github.io/  #do not add http://
     linkedin: sagar-kalathia
     github: sagarkalathia
     telegram: # add your nickname without '@' sign
@@ -91,28 +91,21 @@ projects:
       You can list your side projects or open source libraries in this
       section. 
     assignments:
-      - title: Velocity
-        link: "# http://socialledge.com/sjsu/index.php/S19:_Automophiles"
-        tagline: | 
-          - "A responsive website template designed to help startups promote, market and sell their products."
-          - This is second line.
-
       - title: Self-Driving RC Car ( CAN, Sensors, FreeRTOS, Unit Testing,  ARM Cortex M3)
-        link: "#"
+        link: "http://socialledge.com/sjsu/index.php/S19:_Automophiles"
         tagline:        
              - Engineered Autonomous RC toy car in team by implementing 5 ECUs communicating over CAN bus by creating DBC file.                  
              - Lead Master ECU & developed Sensor ECU collaborating with Motor and GPS ECU. Performed debugging using BusMaster.                  
              - carried out test driven development using Unity & CMock test frameworks to perform Unit Testing and System Validation.
 
       - title: Camera based parking space detection based on deep learning | Python
-        link: "#"
-        tagline: 
-        details:
+        link: ""
+        tagline:     
             • Implemented Parking System based on deep learning classification from camera stream with User Interface.
               Used light weight Neural Network for vacant/full spot classification and feeding data over server to display availability.
 
       - title: Real time Streaming Display from camera | I2C, SPI, C, ARM Cortex M3.
-        link: "#"
+        link: "http://socialledge.com/sjsu/index.php/S18:_Team_Nemesis(SJSU_Cam)"
         tagline: >
             • Designed portable video camera and displayed live stream through micro-controller sending signals to LCD display.
             • Developed SPI, I2C, Interrupt & UART firmware drivers for communication between Controller and LCD to send frames.
