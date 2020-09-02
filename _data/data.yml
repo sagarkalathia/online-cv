@@ -92,7 +92,7 @@ projects:
       section. 
     assignments:
       - title: Velocity
-        link: "#http://socialledge.com/sjsu/index.php/S19:_Automophiles"
+        link: "# http://socialledge.com/sjsu/index.php/S19:_Automophiles"
         tagline: | 
           - "A responsive website template designed to help startups promote, market and sell their products."
           - This is second line.
@@ -106,9 +106,10 @@ projects:
 
       - title: Camera based parking space detection based on deep learning | Python
         link: "#"
+        tagline: 
         details:
             • Implemented Parking System based on deep learning classification from camera stream with User Interface.
-            • Used light weight Neural Network for vacant/full spot classification and feeding data over server to display availability.
+              Used light weight Neural Network for vacant/full spot classification and feeding data over server to display availability.
 
       - title: Real time Streaming Display from camera | I2C, SPI, C, ARM Cortex M3.
         link: "#"
@@ -126,7 +127,7 @@ publications:
     intro: |
     papers:
       - title: Multiagent Coverage Control Utilizing Reinforcement learning
-        link: "#https://ieeexplore.ieee.org/document/9130535"
+        link: "https://ieeexplore.ieee.org/document/9130535"
         authors: Sagar J. K. , Nachiketa R. , Dennis S. , Matthew Z. , Wencen W.
         conference: IEEE SOSE, July 2020
 
