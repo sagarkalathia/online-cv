@@ -107,8 +107,8 @@ projects:
       - title: Camera based parking space detection based on deep learning | Python
         link: "#"
         details:
-• Implemented Parking System based on deep learning classification from camera stream with User Interface.
-• Used light weight Neural Network for vacant/full spot classification and feeding data over server to display availability.
+            • Implemented Parking System based on deep learning classification from camera stream with User Interface.
+            • Used light weight Neural Network for vacant/full spot classification and feeding data over server to display availability.
 
       - title: Real time Streaming Display from camera | I2C, SPI, C, ARM Cortex M3.
         link: "#"
