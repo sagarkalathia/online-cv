@@ -92,80 +92,62 @@ projects:
       section. 
     assignments:
       - title: Velocity
-        link: "#hook"
+        link: "#http://socialledge.com/sjsu/index.php/S19:_Automophiles"
         tagline: | 
           - "A responsive website template designed to help startups promote, market and sell their products."
           - This is second line.
 
       - title: Self-Driving RC Car ( CAN, Sensors, FreeRTOS, Unit Testing,  ARM Cortex M3)
         link: "#"
-        tagline: |
-        
-             -     Engineered Autonomous RC toy car in team by implementing 5 ECUs communicating over CAN bus by creating DBC file.
-                  
-             -     Lead Master ECU & developed Sensor ECU collaborating with Motor and GPS ECU. Performed debugging using BusMaster.
-                  
-             -     carried out test driven development using Unity & CMock test frameworks to perform Unit Testing and System Validation.
+        tagline:        
+             - Engineered Autonomous RC toy car in team by implementing 5 ECUs communicating over CAN bus by creating DBC file.                  
+             - Lead Master ECU & developed Sensor ECU collaborating with Motor and GPS ECU. Performed debugging using BusMaster.                  
+             - carried out test driven development using Unity & CMock test frameworks to perform Unit Testing and System Validation.
 
-      - title: Tempo
+      - title: Camera based parking space detection based on deep learning | Python
         link: "#"
-        details: | 
-          - This first line of Tempo
-          - Second
+        details:
+• Implemented Parking System based on deep learning classification from camera stream with User Interface.
+• Used light weight Neural Network for vacant/full spot classification and feeding data over server to display availability.
 
-      - title: Atom
+      - title: Real time Streaming Display from camera | I2C, SPI, C, ARM Cortex M3.
         link: "#"
         tagline: >
-            "A comprehensive website template solution for startups/developers to market their mobile apps."
+            • Designed portable video camera and displayed live stream through micro-controller sending signals to LCD display.
+            • Developed SPI, I2C, Interrupt & UART firmware drivers for communication between Controller and LCD to send frames.
 
-      - title: Delta
+      - title: IoT based Energy Metering & Appliance Control | Arduino, ESP 8266, Ethernet Shield
         link: "#"
         tagline: | 
-            A responsive Bootstrap one page theme designed to help app developers promote their mobile apps
-
+            Programmed Atmega-328 microcontroller interfaced with ESP 8266 to enable two-way communication of controller.
+            
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Multiagent Coverage Control Utilizing Reinforcement learning
+        link: "#https://ieeexplore.ieee.org/document/9130535"
+        authors: Sagar J. K. , Nachiketa R. , Dennis S. , Matthew Z. , Wencen W.
+        conference: IEEE SOSE, July 2020
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Embedded C
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: C++
+        level: 80%
+
+      - name: Firmware
+        level: 80%
+
+      - name: Testing
+        level: 77%
+
+      - name: Python
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
