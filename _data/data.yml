@@ -87,11 +87,8 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. 
     assignments:
-      - title: Self-Driving RC Car ( CAN, Sensors, FreeRTOS, Unit Testing,  ARM Cortex M3)
+      - title: Self-Driving RC Car |  CAN, Sensors, FreeRTOS, Unit Testing,  ARM Cortex M3
         link: "http://socialledge.com/sjsu/index.php/S19:_Automophiles"
         tagline:        
              - Engineered Autonomous RC toy car in team by implementing 5 ECUs communicating over CAN bus by creating DBC file.                  
@@ -101,18 +98,19 @@ projects:
       - title: Camera based parking space detection based on deep learning | Python
         link: ""
         tagline:     
-            • Implemented Parking System based on deep learning classification from camera stream with User Interface.
-              Used light weight Neural Network for vacant/full spot classification and feeding data over server to display availability.
+            Implemented Parking System based on deep learning classification from camera stream with User Interface.
+            
+            Used light weight Neural Network for vacant/full spot classification and feeding data over server to display availability.
 
       - title: Real time Streaming Display from camera | I2C, SPI, C, ARM Cortex M3.
         link: "http://socialledge.com/sjsu/index.php/S18:_Team_Nemesis(SJSU_Cam)"
-        tagline: >
-            • Designed portable video camera and displayed live stream through micro-controller sending signals to LCD display.
-            • Developed SPI, I2C, Interrupt & UART firmware drivers for communication between Controller and LCD to send frames.
+        tagline:
+            Designed portable video camera and displayed live stream through micro-controller sending signals to LCD display.
+            "Developed SPI, I2C, Interrupt & UART firmware drivers for communication between Controller and LCD to send frames."
 
-      - title: IoT based Energy Metering & Appliance Control | Arduino, ESP 8266, Ethernet Shield
-        link: "#"
-        tagline: | 
+      - title: IoT based Energy Metering & Appliance Control | ESP 8266, Ethernet Shield
+        link: ""
+        tagline: 
             Programmed Atmega-328 microcontroller interfaced with ESP 8266 to enable two-way communication of controller.
             
 publications:
@@ -137,11 +135,11 @@ skills:
       - name: Firmware
         level: 80%
 
-      - name: Testing
+      - name: Unit Testing & TDD
         level: 77%
 
       - name: Python
-        level: 75%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
